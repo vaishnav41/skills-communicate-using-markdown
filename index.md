@@ -5,3 +5,5 @@
 ``` javascript
 let greetings = "Hello World";
 ```
+- [ ] Turn of GitHube Pages
+- [x] This is completed
